@@ -20,4 +20,9 @@
     <string name="mocha_desc">Espresso with chocolate and steamed milk; sweet and creamy.</string>
 
     <string name="hello_blank_fragment">Hello Blank Fragment</string>
+
+    <string name="back_button_text">BACK</string>
+    <string name="coffee_hint">Pilih kopi untuk melihat deskripsi.</string>
+
+
 </resources>
