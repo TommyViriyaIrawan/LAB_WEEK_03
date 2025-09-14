@@ -18,4 +18,6 @@
 
     <string name="mocha_title">MOCHA</string>
     <string name="mocha_desc">Espresso with chocolate and steamed milk; sweet and creamy.</string>
+
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
 </resources>

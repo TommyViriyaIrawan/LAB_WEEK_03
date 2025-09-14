@@ -4,6 +4,8 @@ import android.content.Context
 import android.os.Bundle
 import android.view.*
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.findNavController
+
 
 class ListFragment : Fragment(), View.OnClickListener {
 
